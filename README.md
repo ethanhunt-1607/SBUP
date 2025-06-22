@@ -1,1 +1,1 @@
-Awesome Git Practice Project (Feature Update) 
+Awesome Git Practice Project (Feature Update)
