@@ -1,1 +1,1 @@
-Awesome Git Practice Project (Feature Update) 
+My Git Practice Project (Main Update)
